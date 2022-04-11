@@ -5,6 +5,13 @@ This is a boilerplate IAAC with Terraform for creating ECS service with AWS.  In
 Firstly, install Terraform cli
 https://learn.hashicorp.com/tutorials/terraform/install-cli
 
+Helpful Links:
+https://github.com/terraform-aws-modules/terraform-aws-ecs/tree/master/examples/complete-ecs
+https://learn.hashicorp.com/tutorials/terraform/aws-build
+https://www.sufle.io/blog/keeping-secrets-as-secret-on-amazon-ecs-using-terraform
+https://techsparx.com/nodejs/docker/simple-node-deploy-ecs-terraform.html
+https://section411.com/2019/07/hello-world/
+
 
 Prerequisites:
 -	Terraform CLI
