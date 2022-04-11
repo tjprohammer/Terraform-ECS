@@ -1,6 +1,6 @@
 
 # Terraform-ECS
-This is a boilerplate IAAC with Terraform for creating ECS service with AWS.  In most cases I will use this for deploying a react app and api's. A CI/CD pipeline will also be created to keep application up-to-date and continue with new integrations.
+This is a boilerplate IAC with Terraform for creating ECS service with AWS.  In most cases I will use this for deploying a react app and api's. A CI/CD pipeline will also be created to keep application up-to-date and continue with new integrations.
 
 Firstly, install Terraform cli
 https://learn.hashicorp.com/tutorials/terraform/install-cli
