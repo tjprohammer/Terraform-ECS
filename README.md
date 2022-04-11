@@ -11,6 +11,7 @@ https://learn.hashicorp.com/tutorials/terraform/aws-build
 https://www.sufle.io/blog/keeping-secrets-as-secret-on-amazon-ecs-using-terraform
 https://techsparx.com/nodejs/docker/simple-node-deploy-ecs-terraform.html
 https://section411.com/2019/07/hello-world/
+https://github.com/cn-terraform/terraform-aws-ecs-fargate
 
 
 Prerequisites:
