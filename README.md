@@ -4,6 +4,10 @@ A CI/CD pipeline will also be created to keep application up-to-date and continu
 
 Firstly, install Terraform cli https://learn.hashicorp.com/tutorials/terraform/install-cli
 
+Learn Terraform with AWS
+https://learn.hashicorp.com/tutorials/terraform/aws-build
+
+
 Helpful Links: 
 https://github.com/terraform-aws-modules/terraform-aws-ecs/tree/master/examples/complete-ecs 
 https://learn.hashicorp.com/tutorials/terraform/aws-build 
