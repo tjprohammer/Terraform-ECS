@@ -15,6 +15,8 @@ https://www.sufle.io/blog/keeping-secrets-as-secret-on-amazon-ecs-using-terrafor
 https://techsparx.com/nodejs/docker/simple-node-deploy-ecs-terraform.html 
 https://section411.com/2019/07/hello-world/ 
 https://github.com/cn-terraform/terraform-aws-ecs-fargate
+https://github.com/erozedguy/CICD-Pipeline-for-Amazon-ECS-Fargate
+
 
 Prerequisites:
 

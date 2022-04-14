@@ -1,7 +1,25 @@
-# variables.tf
+variable "region" {
+  description = "AWS region to create resources in"
+  type = string
+  default = "us-west-2"
+}
 
-variable "instance_name" {
-  description = "Value of the Name tag for the EC2 instance"
-  type        = string
-  default     = "ExampleAppServerInstance"
+variable "aws_profile" {
+  description = "The AWS profile to use"
+  default = "tjprohammer-us"
+}
+
+variable "cluster_name" {
+  type = string
+  description = "ECS cluster name"
+}
+
+variable "service_name" {
+  type = string
+  description = "ECS service name"
+}
+
+variable "task_family" {
+  type = string
+  description = "Fargate task family"
 }
