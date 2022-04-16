@@ -1,6 +1,7 @@
 #Secify your account details to access AWS
 provider "aws" {
-  shared_credencials = "$HOME/.aws/credencials"
+  access_key = var.aws_access_key
+  secret_key = var.aws_secret_key
   profile = var.aws_profile
   region = var.region
 }
