@@ -47,7 +47,7 @@ resource "aws_iam_role" "task_role" {
 module "vpc" {
   source = "terraform-aws-modules/vpc/aws"
   
-  name = "${var.config.tjprohammer-us-project}-${var.config.enviroment}-vpc"
+  name = "${var.config.projectName}-${var.config.enviroment}-vpc"
   cidr = "10.0.0.0/16"
   
   azs = ["${var.config.region}a", "${var.config.region}b"]
